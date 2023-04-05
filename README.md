@@ -103,6 +103,9 @@ sudo cat /var/log/zabbix/zabbix_agent2.log
 
 #### Требования к результаты 
 1. Приложите в файл README.md скриншот раздела Latest Data, где видно свободное место на диске C:
+![img](img/3.PNG)
+![img](img/3.1.PNG)
+
 --- 
 
 ## Критерии оценки
